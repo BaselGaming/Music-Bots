@@ -462,8 +462,8 @@ client.on("message", message => {
 });
 
 const config = {
-    prefix : "-",
-    owner : [' 522866582192390174 '],
+    prefix : "$",
+    owner : [' 525330085507497995 '],
 };
 //By Request of [ function ]
 var color = new Discord.RichEmbed().setColor('#000000').setColor('#36393e')
