@@ -1,8 +1,8 @@
 
 {
-  "token" : " NTIyODY2NTgyMTkyMzkwMTc0.DvXCLw.nYVcLygNxaHTb4nkZnNgktiv4XQ ",
+  "token" : " BoGWaeNT9xVD6O1Kr0cIMXozGV4pc2nI ",
   "ms" : 1500,
   "roleToDisco" : ["Disco"], // اسم الرتبه
   "prefix" : "#",
-  "allowedUsers" : [" 522866582192390174 "] // ايدي الي هيستعمل الامر
+  "allowedUsers" : [" 511491524077420555 "] // ايدي الي هيستعمل الامر
 }
